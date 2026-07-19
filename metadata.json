@@ -1,0 +1,6 @@
+{
+  "name": "SL VISION - Caméra Solaire Intelligente",
+  "description": "Votre sécurité, alimentée par le soleil. Caméra de sécurité solaire intelligente haut de gamme pour surveiller votre maison, boutique ou chantier au Bénin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
